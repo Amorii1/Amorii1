@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **omaralani.it@gmail.com**
+- 📫 How to reach me **omaralani.it@gmail.com** // **https://www.linkedin.com/in/amorii/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
