@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **omaralani.it@gmail.com** // **https://www.linkedin.com/in/amorii/**
+- 📫 How to reach me **omaralani.it@gmail.com**
+
+- 💼 Check out my projects on LinkedIn: **https://www.linkedin.com/in/amorii/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
