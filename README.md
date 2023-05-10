@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TECH FOR EDU**
 
-- 🌱 I’m currently learning **C# .Net Core**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 💬 Ask me about **Node.js**
 
