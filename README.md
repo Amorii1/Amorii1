@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TECH FOR EDU**
 
-- 🌱 I’m currently learning **TensorFlow** && **CleaCode**
+- 🌱 I’m currently learning **TensorFlow** && **CleanCode**
 
 - 💬 Ask me about **Node.js**
 
