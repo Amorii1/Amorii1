@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amorii</h1>
-<h3 align="center">A passionate entrepreneur Back-end engineer from Baghdad, Iraq.</h3>
+<h3 align="center">A passionate entrepreneur Software Engineer from Baghdad, Iraq.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amorii1&label=Profile%20views&color=0e75b6&style=flat" alt="amorii1" /> </p>
 
