@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omaralani.it@gmail.com**
 
-- 💼 Check out my projects on LinkedIn: **https://www.linkedin.com/in/amorii/details/projects/**
+- 💼 Check out my projects on LinkedIn: **[here](https://www.linkedin.com/in/amorii/details/projects/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
