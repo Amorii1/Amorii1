@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amorii1&label=Profile%20views&color=0e75b6&style=flat" alt="amorii1" /> </p>
 
-- 🔭 I’m currently working on **Tamwinia Of Iraq**
+- 🔭 I’m currently working on **1001 Platform**
 
-- 🌱 I’m currently learning **TensorFlow** && **CleanCode**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **omaralani.it@gmail.com**
 
-- 💼 Check out my projects on LinkedIn: **[here](https://www.linkedin.com/in/amorii/details/projects/)**
+- 💼 Check out my LinkedIn: **[here](https://www.linkedin.com/in/amorii/details/projects/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
