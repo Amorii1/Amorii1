@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amorii1&label=Profile%20views&color=0e75b6&style=flat" alt="amorii1" /> </p>
 
-- 🔭 I’m currently working on **1001 Platform**
+- 🔭 I’m currently working on **Elsporty.app**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 💬 Ask me about **Node.js**
 
